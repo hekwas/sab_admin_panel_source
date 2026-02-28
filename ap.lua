@@ -1,5 +1,3 @@
--- Cod generat pentru GUI: Shop
--- RuleazÄƒ acest cod pentru a recrea GUI-ul.
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "Shop"
@@ -10701,3 +10699,4 @@ Shop.Enabled = false
 Shop.Parent = Shop
 
 -- SfÃ¢rÈ™it cod generat
+
